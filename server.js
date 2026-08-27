@@ -4,6 +4,28 @@ const PORT = process.env.PORT || 7000;
 
 const channels = [
   {
+    id: "america-tv",
+    name: "América Televisión",
+    url: "http://m.mediastream.pe/canal4/livestream/playlist.m3u8"
+    logo: "https://commons.wikimedia.org/wiki/File:America_Televisi%C3%B3n-logo,_Tv_port%C3%A1til.svg#/media/File:America_Televisi%C3%B3n-logo,_Tv_port%C3%A1til.svg",
+    epg_id: "America.pe"
+  },
+  {
+    id: "willax",
+    name: "Willax Televisión",
+    url: "http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8"
+    logo": "https://commons.wikimedia.org/wiki/File:Willax_Televisi%C3%B3n.png#/media/File:Willax_Televisi%C3%B3n.png",
+    epg_id: "Willax.pe"
+  },
+  {
+    id: "atv",
+    name: "ATV Perú",
+    url: "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8"
+    logo: "https://commons.wikimedia.org/wiki/File:ATV_logo_2020.png#/media/File:ATV_logo_2020.png",
+    epg_id: "ATV.pe"
+  }
+];
+  {
     "id": "panamericana-tv-pe",
     "name": "Panamericana TV",
     "group": "Perú - Nacionales",
