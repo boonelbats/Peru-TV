@@ -7,7 +7,7 @@ const channels = [
     id: "america-tv",
     name: "América Televisión",
     group: "Perú - Nacionales",
-    url: "https://live-evg4.tv360.bitel.com.pe/jCaGiHLySpTps1RMyE4yMA/1754963133/bitel/americatvhd/bitel/americatvhd_ori_480p/chunks.m3u8",
+    url: "https://tvgo.americatv.com.pe/",
     logo: "https://upload.wikimedia.org/wikipedia/commons/f/f1/America_Televisi%C3%B3n-logo%2C_Tv_port%C3%A1til.svg",
     epg_id: "America.pe"
   },
@@ -15,7 +15,7 @@ const channels = [
     id: "willax",
     name: "Willax Televisión",
     group: "Perú - Nacionales",
-    url: "https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_480p/chunks.m3u8",
+    url: "https://willax.pe/en-vivo",
     logo: "https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_TelevisixC3%B3n.png",
     epg_id: "Willax.pe"
   },
@@ -23,7 +23,7 @@ const channels = [
     id: "atv",
     name: "ATV Perú",
     group: "Perú - Nacionales",
-    url: "https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_480p/chunks.m3u8",
+    url: "https://www.atv.pe/envivo-atv/",
     logo: "https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png",
     epg_id: "ATV.pe"
   },
