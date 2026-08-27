@@ -1,0 +1,14 @@
+{
+  "name": "peru-tv-nuvio-addon",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Peru live TV addon for Nuvio/Stremio using authorized/public stream URLs.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
