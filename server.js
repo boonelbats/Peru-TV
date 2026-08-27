@@ -7,7 +7,7 @@ const channels = [
     id: "america-tv",
     name: "América Televisión",
     group: "Perú - Nacionales",
-    url: "http://m.mediastream.pe/canal4/livestream/playlist.m3u8",
+    url: "https://live-evg4.tv360.bitel.com.pe/jCaGiHLySpTps1RMyE4yMA/1754963133/bitel/americatvhd/bitel/americatvhd_ori_480p/chunks.m3u8",
     logo: "https://upload.wikimedia.org/wikipedia/commons/f/f1/America_Televisi%C3%B3n-logo%2C_Tv_port%C3%A1til.svg",
     epg_id: "America.pe"
   },
