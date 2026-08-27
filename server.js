@@ -15,7 +15,7 @@ const channels = [
     id: "willax",
     name: "Willax Televisión",
     group: "Perú - Nacionales",
-    url: "http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8",
+    url: "https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_480p/chunks.m3u8",
     logo: "https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_TelevisixC3%B3n.png",
     epg_id: "Willax.pe"
   },
@@ -23,7 +23,7 @@ const channels = [
     id: "atv",
     name: "ATV Perú",
     group: "Perú - Nacionales",
-    url: "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8",
+    url: "https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_480p/chunks.m3u8",
     logo: "https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png",
     epg_id: "ATV.pe"
   },
