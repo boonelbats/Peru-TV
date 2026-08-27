@@ -7,21 +7,21 @@ const channels = [
     id: "america-tv",
     name: "América Televisión",
     url: "http://m.mediastream.pe/canal4/livestream/playlist.m3u8"
-    logo: "https://commons.wikimedia.org/wiki/File:America_Televisi%C3%B3n-logo,_Tv_port%C3%A1til.svg#/media/File:America_Televisi%C3%B3n-logo,_Tv_port%C3%A1til.svg",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/f/f1/America_Televisi%C3%B3n-logo%2C_Tv_port%C3%A1til.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=originalg",
     epg_id: "America.pe"
   },
   {
     id: "willax",
     name: "Willax Televisión",
     url: "http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8"
-    logo": "https://commons.wikimedia.org/wiki/File:Willax_Televisi%C3%B3n.png#/media/File:Willax_Televisi%C3%B3n.png",
+    logo": "https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
     epg_id: "Willax.pe"
   },
   {
     id: "atv",
     name: "ATV Perú",
     url: "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8"
-    logo: "https://commons.wikimedia.org/wiki/File:ATV_logo_2020.png#/media/File:ATV_logo_2020.png",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
     epg_id: "ATV.pe"
   }
 ];
